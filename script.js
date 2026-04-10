@@ -1,3 +1,6 @@
+// A placeholder for future interaction, like filtering events or galleries.
+console.log("PGPS Site Loaded");
+
 // Smooth Scroll
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
